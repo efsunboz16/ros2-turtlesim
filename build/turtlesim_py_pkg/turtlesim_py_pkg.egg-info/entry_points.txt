@@ -1,0 +1,4 @@
+[console_scripts]
+go_to_controller = turtlesim_py_pkg.go_to_controller:main
+vel_controller = turtlesim_py_pkg.vel_controller:main
+

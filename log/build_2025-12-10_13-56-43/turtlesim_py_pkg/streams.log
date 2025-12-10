@@ -1,0 +1,25 @@
+[0.377s] Invoking command in '/home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg': PYTHONPATH=/home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/build --no-deps symlink_data
+[0.542s] running develop
+[0.618s] running egg_info
+[0.619s] creating turtlesim_py_pkg.egg-info
+[0.619s] writing turtlesim_py_pkg.egg-info/PKG-INFO
+[0.619s] writing dependency_links to turtlesim_py_pkg.egg-info/dependency_links.txt
+[0.619s] writing entry points to turtlesim_py_pkg.egg-info/entry_points.txt
+[0.619s] writing requirements to turtlesim_py_pkg.egg-info/requires.txt
+[0.619s] writing top-level names to turtlesim_py_pkg.egg-info/top_level.txt
+[0.619s] writing manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.620s] reading manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.621s] writing manifest file 'turtlesim_py_pkg.egg-info/SOURCES.txt'
+[0.623s] running build_ext
+[0.623s] Creating /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/lib/python3.10/site-packages/turtlesim-py-pkg.egg-link (link to .)
+[0.624s] Installing go_to_controller script to /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.624s] Installing vel_controller script to /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/lib/turtlesim_py_pkg
+[0.624s] 
+[0.624s] Installed /home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg
+[0.624s] running symlink_data
+[0.624s] creating /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/share/ament_index
+[0.624s] creating /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/share/ament_index/resource_index
+[0.624s] creating /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+[0.624s] symbolically linking /home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/resource/turtlesim_py_pkg -> /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/share/ament_index/resource_index/packages
+[0.624s] symbolically linking /home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/package.xml -> /home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/share/turtlesim_py_pkg
+[0.644s] Invoked command in '/home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg' returned '0': PYTHONPATH=/home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/efsun/turtlesim_ws/src/install/turtlesim_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/efsun/turtlesim_ws/src/build/turtlesim_py_pkg/build --no-deps symlink_data

@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            "vel_controller = turtlesim_py_pkg.vel_controller:main" 
+            "vel_controller = turtlesim_py_pkg.vel_controller:main",
+            "go_to_loc = turtlesim_py_pkg.go_to_loc:main" 
         ],
     },
 )
